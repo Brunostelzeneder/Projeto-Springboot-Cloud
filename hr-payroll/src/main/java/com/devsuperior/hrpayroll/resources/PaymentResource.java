@@ -34,6 +34,6 @@ Payment payment = new Payment("Brann", 400.0, days);
 		
 		return ResponseEntity.ok(payment);
 		
-	}
+	}  
 	
 }
